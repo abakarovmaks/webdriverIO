@@ -1,0 +1,5 @@
+export default {
+  PAUSE_SEC: 1000,
+  SUCCESS_STATUS: 200,
+  WEBCHECK_PERCENT: 1,
+};
